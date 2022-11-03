@@ -2,7 +2,7 @@
 
 [![pidgin wordmark](wordmark.png)](https://pidgin.im/)
 
-Pidgin is chat client that allows you to chat on multiple networks at once from
+Pidgin is a chat client that allows you to chat on multiple networks at once from
 the same client which runs on FreeBSD, Linux, macOS, and Windows.
 
 For more information about the project, refer to the following:
