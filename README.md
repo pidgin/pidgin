@@ -1,9 +1,9 @@
 # Pidgin: The Universal Chat Client
 
-[![pidgin wordmark](wordmark.png)](https://pidgin.im/)
+[![pidgin wordmark](img/wordmark.png)](https://pidgin.im/)
 
-Pidgin is a chat client that allows you to chat on multiple networks at once from
-the same client which runs on FreeBSD, Linux, macOS, and Windows.
+Pidgin is a chat client that allows you to chat on multiple networks at once
+from the same client which runs on FreeBSD, Linux, macOS, and Windows.
 
 For more information about the project, refer to the following:
 
@@ -19,4 +19,11 @@ We also maintain a list of known third party plugins at
 Pidgin is developed using **[mercurial](https://www.mercurial-scm.org/)** and
 thus not here on GitHub. For more information, check out our
 [contributing documentation](https://pidgin.im/development/contributing/).
+
+## Sponsors
+
+Pidgin is supported by DigitalOcean who graciously sponsors all of our
+infrastructure.
+
+[![DigitalOcean referal link](img/DO_Logo_horizontal_blue.svg)(https://www.digitalocean.com/?refcode=b69e5dddf595&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
