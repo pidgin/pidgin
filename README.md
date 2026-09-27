@@ -22,8 +22,5 @@ thus not here on GitHub. For more information, check out our
 
 ## Sponsors
 
-Pidgin is supported by DigitalOcean who graciously sponsors all of our
-infrastructure.
-
-[![DigitalOcean referal link](img/DO_Logo_horizontal_blue.png)](https://www.digitalocean.com/?refcode=b69e5dddf595&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+None currently
 
